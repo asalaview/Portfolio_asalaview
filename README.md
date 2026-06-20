@@ -1,4 +1,4 @@
-# Soy [Antonio Sala Llaudis] 
+# Soy Antonio Sala Llaudis 
 ### Ingeniero de Software & Automatización | Especialista en Data Engineering, IA e Industria 4.0
 
 Me apasiona conectar el mundo físico (**OT**: PLCs, Robótica, IoT) con el mundo digital y de datos (**IT**: Big Data, Cloud, Inteligencia Artificial). Mi enfoque se centra en diseñar e implementar arquitecturas completas: desde la adquisición del dato en un sensor en planta hasta su procesamiento en pipelines distribuidos y su explotación mediante modelos de IA.
