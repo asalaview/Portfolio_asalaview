@@ -18,7 +18,7 @@ Me apasiona conectar el mundo físico (**OT**: PLCs, Robótica, IoT) con el mund
 
 ## Proyectos Destacados
 
-### 📊 Data Engineering & Inteligencia Artificial
+### Data Engineering & Inteligencia Artificial
 
 #### [Ecosistema de Datos Industrial / Transaccional]([ENLACE])
 *Pipeline robusto de datos de extremo a extremo enfocado en el procesamiento eficiente de grandes volúmenes de información.*
